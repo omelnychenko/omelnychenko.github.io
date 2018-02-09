@@ -36,7 +36,7 @@ h3 a, h4 a, h3 a:hover, h4 a:hover {
 }
 
 .header {
-    background:url(images/m1.jpg) no-repeat;
+    background:url(../img/m1.jpg) no-repeat;
     background-size: cover;
     padding: 5em;
 }
