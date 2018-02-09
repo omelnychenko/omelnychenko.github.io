@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    font-family: 'Open Sans';
+    font-size: 16px;
+    color: #111111;
+    background: #E0FFFF;
+}
+
+h1 {
+    font-size: 150%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+p {
+    text-align: justify;
+}
+
+dl + p {
+    text-align: right;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: #4682B4;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h3 a, h4 a, h3 a:hover, h4 a:hover {
+    text-decoration: none;
+    color: #111111;
+}
+
+.header {
+    background:url(images/m1.jpg) no-repeat;
+    background-size: cover;
+    padding: 5em;
+}
+
+.menu {
+    float: left;
+    width: 150px;
+    height: 400px;
+    background: #B0E0E6;
+    padding: 10px;
+    margin-right: 0.5em;
+}
+
+.right_void {
+    float: right;
+    width: 150px;
+    height: 400px;
+    padding: 10px;
+    margin-left: 0.5em;
+}
+
+.content {
+    overflow: hidden;
+}
+
+img {
+    float: right;
+    margin-left: 0.5em;
+    padding: 0;
+    border: 3px solid #111111;
+}
+
+.photo1 {
+    width: 520px;
+    height: 240px;
+}
+
+.photo2 {
+    width: 380px;
+    height: 390px;
+}
+
+.footer {
+    font-size: 14px;
+    background: #4682B4;
+    text-align: center;
+    padding: 0.75em;
+}
