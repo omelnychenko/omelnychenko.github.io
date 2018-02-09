@@ -65,6 +65,7 @@ h3 a, h4 a, h3 a:hover, h4 a:hover {
 img {
     float: right;
     margin-left: 0.5em;
+    margin-top: 1em;
     padding: 0;
     border: 3px solid #111111;
 }
@@ -79,8 +80,9 @@ img {
     height: 390px;
 }
 
-.footer {
+.footer p {
     font-size: 14px;
+    font-style: italic;
     background: #4682B4;
     text-align: center;
     padding: 0.75em;
