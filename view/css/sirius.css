@@ -13,11 +13,33 @@ h1 {
     color: #FFFFFF;
 }
 
+h3 {
+    font-weight: bolder;
+}
+
 p {
     text-align: justify;
 }
 
-dl + p {
+table {
+    background: #DCDCDC;
+    border: 3px outset #778899;
+    margin: auto;
+}
+
+tr {
+    background: #C0C0C0;
+}
+
+th {
+    padding: 0.5em;
+}
+
+thead > tr {
+    background: #808080;
+}
+
+table + p {
     text-align: right;
 }
 
@@ -65,7 +87,6 @@ h3 a, h4 a, h3 a:hover, h4 a:hover {
 img {
     float: right;
     margin-left: 0.5em;
-    margin-top: 1em;
     padding: 0;
     border: 3px solid #111111;
 }
@@ -73,11 +94,13 @@ img {
 .photo1 {
     width: 520px;
     height: 240px;
+    margin-top: 1em;
 }
 
 .photo2 {
     width: 380px;
     height: 390px;
+    margin-top: 0.5em;
 }
 
 .footer p {
