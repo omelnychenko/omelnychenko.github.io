@@ -1,0 +1,23 @@
+$bg-size: cover;
+$padding-val: 5em;
+
+$name-url: (
+    sirius: "../img/headers-img/sirius.jpg", 
+    agn: "../img/headers-img/agn.jpg", 
+    blackhole: "../img/headers-img/blackhole.jpg", 
+    pulsar: "../img/headers-img/pulsar.jpg", 
+    quasar: "../img/headers-img/quasar.jpg", 
+    smf: "../img/headers-img/smf.jpg", 
+    supernova: "../img/headers-img/supernova.jpg"
+);
+
+.header {
+    @each $name, $url in $name-url {
+        &-#{$name} {
+            background: url($url) no-repeat {
+                size: $bg-size;
+            }
+            padding: $padding-val;
+        }
+    }
+}
