@@ -1,12 +1,8 @@
-$menu-width: 150px;
-$menu-height: 400px;
-$margin-val: 0.5em;
-
 .menu {
     float: left;
     width: $menu-width;
     height: $menu-height;
     background: $powder-blue;
     padding: $menu-width/15;
-    margin-right: $menu-margin-val;
+    margin-right: $menu-margin;
 }

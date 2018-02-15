@@ -1,5 +1,3 @@
-$padding-val: 5em;
-
 $name-url: (
     sirius: "../img/headers-img/sirius.jpg",
     agn: "../img/headers-img/agn.jpg",
@@ -16,7 +14,7 @@ $name-url: (
             background: url($url) no-repeat {
                 size: cover;
             }
-            padding: $padding-val;
+            padding: $header-padding;
         }
     }
 }
