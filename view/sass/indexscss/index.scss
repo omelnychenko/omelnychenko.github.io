@@ -1,0 +1,15 @@
+@import "idxvariables";
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    @each $iconname, $iconurl in $iconname-iconurl {
+        &.#{$iconname} {
+            background: url($iconurl) left no-repeat;
+            background-size: $idx-bg-size $idx-bg-size;
+            padding-left: $idx-padding;
+        }
+    }
+}

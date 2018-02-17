@@ -1,0 +1,33 @@
+ul {
+  list-style-type: none; }
+
+li.sirius-icon {
+  background: url("../../icons/link1.png") left no-repeat;
+  background-size: 20px 20px;
+  padding-left: 30px; }
+li.agn-icon {
+  background: url("../../icons/link2.png") left no-repeat;
+  background-size: 20px 20px;
+  padding-left: 30px; }
+li.blackhole-icon {
+  background: url("../../icons/link3.png") left no-repeat;
+  background-size: 20px 20px;
+  padding-left: 30px; }
+li.pulsar-icon {
+  background: url("../../icons/link4.png") left no-repeat;
+  background-size: 20px 20px;
+  padding-left: 30px; }
+li.quasar-icon {
+  background: url("../../icons/link5.png") left no-repeat;
+  background-size: 20px 20px;
+  padding-left: 30px; }
+li.smf-icon {
+  background: url("../../icons/link6.png") left no-repeat;
+  background-size: 20px 20px;
+  padding-left: 30px; }
+li.supernova-icon {
+  background: url("../../icons/link7.png") left no-repeat;
+  background-size: 20px 20px;
+  padding-left: 30px; }
+
+/*# sourceMappingURL=indexoutput.css.map */
