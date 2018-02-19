@@ -1,5 +1,10 @@
 @import "idxvariables";
 
+.nav {
+    width: $nav-width;
+    height: $nav-height;
+}
+
 ul {
     list-style-type: none;
 }

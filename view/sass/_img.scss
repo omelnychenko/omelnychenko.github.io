@@ -1,0 +1,28 @@
+img {
+    padding: 0;
+    border: 3px solid $approx-black;
+}
+
+.first-type {
+    float: right;
+    margin-left: $img-first-t-margl;
+    margin-top: $img-first-t-margt;
+}
+
+.second-type {
+    display: flex;    
+    justify-content: center;
+}
+
+.third-type {
+    display: block;
+    margin: 0 auto;
+}
+
+.first-type-add {
+    margin-top: $img-modif-margt;
+}
+
+.second-type-add {
+    margin: $img-modif-margin;
+}
