@@ -2,11 +2,9 @@
 
 @import "colors";
 @import "variables";
-@import "header";
-@import "menu";
-@import "rightvoid";
-@import "content";
-@import "tablestyle";
-@import "footer";
-@import "img";
-@import "ch-huygens";
+@media screen {
+  @import "onscreen";
+}
+@media print {
+  @import "onprint";
+}
