@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@media (orientation: portrait) {
+  .menu {
+    overflow: hidden; }
+
+  .menu > ul li {
+    display: block;
+    background: #AFEEEE;
+    padding: 5px; }
+
+  img {
+    max-width: 100%; }
+
+  .right-block {
+    display: none; } }
+
+/*# sourceMappingURL=desktop-small.css.map */

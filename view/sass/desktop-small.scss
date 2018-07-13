@@ -1,11 +1,24 @@
-.menu {
-    overflow: hidden;
-}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
-img {
-    max-width: $img-max-width;
-}
+@import "colors";
+@import "variables";
 
-.right-block {
-    display: none;
+@media (orientation: portrait) {
+    .menu {
+        overflow: hidden;
+    }
+
+    .menu > ul li {
+        display: block;
+        background: $pale-turquoise;
+        padding: $menu-padding;
+    }
+
+    img {
+        max-width: $img-max-width;
+    }
+
+    .right-block {
+        display: none;
+    }
 }

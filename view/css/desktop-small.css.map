@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,gEAAwD;AAKhE,8BAA+B;EAC3B,KAAM;IACF,QAAQ,EAAE,MAAM;;EAGpB,aAAc;IACV,OAAO,EAAE,KAAK;IACd,UAAU,ECCD,OAAO;IDAhB,OAAO,EEmCA,GAAG;;EFhCd,GAAI;IACA,SAAS,EE2BD,IAAI;;EFxBhB,YAAa;IACT,OAAO,EAAE,IAAI",
+"sources": ["../sass/desktop-small.scss","../sass/_colors.scss","../sass/_variables.scss"],
+"names": [],
+"file": "desktop-small.css"
+}
