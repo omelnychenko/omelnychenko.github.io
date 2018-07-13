@@ -3,6 +3,44 @@
 @import "colors";
 @import "variables";
 
-@media screen {
-    @import "screenstyles";
+body {
+    font-family: 'Open Sans';
+    font-size: $page-font-size;
+    color: $approx-black;
+    background: $light-cyan;
+}
+
+h1 {
+    font-size: $header-font-size;
+    text-align: center;
+    color: $white;
+}
+
+h1.visiblecolor {
+    color: $approx-black;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: $steel-blue;
+    &:visited {
+        text-decoration: none;
+        color: $steel-blue;
+    }
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+h3 a, h4 a, h3 a:hover, h4 a:hover {
+    text-decoration: none;
+    color: $approx-black;
 }

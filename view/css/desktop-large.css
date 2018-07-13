@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@media screen {
+  .header-sirius {
+    background: url("../img/headers-img/sirius.jpg") no-repeat;
+      background-size: cover;
+    padding: 5em; }
+  .header-agn {
+    background: url("../img/headers-img/agn.jpg") no-repeat;
+      background-size: cover;
+    padding: 5em; }
+  .header-blackhole {
+    background: url("../img/headers-img/blackhole.jpg") no-repeat;
+      background-size: cover;
+    padding: 5em; }
+  .header-pulsar {
+    background: url("../img/headers-img/pulsar.jpg") no-repeat;
+      background-size: cover;
+    padding: 5em; }
+  .header-quasar {
+    background: url("../img/headers-img/quasar.jpg") no-repeat;
+      background-size: cover;
+    padding: 5em; }
+  .header-smf {
+    background: url("../img/headers-img/smf.jpg") no-repeat;
+      background-size: cover;
+    padding: 5em; }
+  .header-supernova {
+    background: url("../img/headers-img/supernova.jpg") no-repeat;
+      background-size: cover;
+    padding: 5em; }
+
+  .menu {
+    float: left;
+    width: 200px;
+    height: 400px;
+    background: #B0E0E6;
+    padding: 13.33333px;
+    margin-right: 0.5em; }
+
+  .right-block {
+    float: right;
+    width: 200px;
+    height: 400px;
+    padding: 13.33333px;
+    margin-left: 0.5em; }
+
+  .content {
+    overflow: hidden; }
+
+  table {
+    background: #DCDCDC;
+    border: 3px outset #778899;
+    margin: auto; }
+
+  thead {
+    background: #808080; }
+
+  tbody {
+    background: #C0C0C0; }
+
+  .footer p {
+    background: #4169E1;
+    text-align: center;
+    padding: 0.75em;
+    font-size: 14px;
+    font-style: italic; }
+
+  img {
+    padding: 0;
+    border: 3px solid #111111; }
+
+  .first-type {
+    float: right;
+    margin-left: 0.5em;
+    margin-top: 0.5em; }
+
+  .second-type {
+    display: flex;
+    justify-content: center; }
+
+  .third-type {
+    display: block;
+    margin: 0 auto; }
+
+  .first-type-add {
+    margin-top: 1em; }
+
+  .second-type-add {
+    margin: 1em; }
+
+  .chbody {
+    background: #FFE4B5; }
+
+  .chheader {
+    background: url("../img/headers-img/chheader.jpg") no-repeat;
+    background-size: cover;
+    padding: 3em; }
+
+  .chmenu {
+    background: #FFE4B5; }
+
+  .center-pos {
+    text-align: center; }
+
+  .chfooter p {
+    background: #FF7F50; } }
+
+/*# sourceMappingURL=desktop-large.css.map */
