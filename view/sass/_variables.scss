@@ -1,4 +1,4 @@
-// Variables for the index
+// Variables for the index-large
 $iconname-iconurl: (
     sirius-icon: "../icons/link1.png",
     agn-icon: "../icons/link2.png",
@@ -13,6 +13,10 @@ $idx-bg-size: 20px;
 $idx-padding: 30px;
 $nav-width: 300px;
 $nav-height: 400px;
+
+// Variables for the index-small
+$nav-max-width: 100%;
+$nav-padding: 10px;
 
 // Variables for large desktops
 $name-url: (

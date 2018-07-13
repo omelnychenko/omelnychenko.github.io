@@ -13,6 +13,23 @@
     width: 200px;
     height: 400px;
     padding: 13.33333px;
-    margin-left: 0.5em; } }
+    margin-left: 0.5em; }
+
+  .chbody {
+    background: #FFE4B5; }
+
+  .chheader {
+    background: url("../img/headers-img/chheader.jpg") no-repeat;
+    background-size: cover;
+    padding: 3em; }
+
+  .chmenu {
+    background: #FFE4B5; }
+
+  .center-pos {
+    text-align: center; }
+
+  .chfooter p {
+    background: #FF7F50; } }
 
 /*# sourceMappingURL=desktop-large.css.map */

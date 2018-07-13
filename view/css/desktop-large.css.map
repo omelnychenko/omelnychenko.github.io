@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAQ,gEAAwD;AAKhE,+BAAgC;ECLhC,KAAM;IACF,KAAK,EAAE,IAAI;IACX,KAAK,EC8BI,KAAK;ID7Bd,MAAM,EC8BI,KAAK;ID7Bf,UAAU,EEGA,OAAO;IFFjB,OAAO,EAAE,UAAc;IACvB,YAAY,EC4BF,KAAK;;EElCnB,YAAa;IACT,KAAK,EAAE,KAAK;IACZ,KAAK,EFkCE,KAAK;IEjCZ,MAAM,EFkCE,KAAK;IEjCb,OAAO,EAAE,UAAY;IACrB,WAAW,EFiCC,KAAK",
-"sources": ["../sass/desktop-large.scss","../sass/_menu.scss","../sass/_variables.scss","../sass/_colors.scss","../sass/_rightblock.scss"],
+"mappings": "AAAQ,gEAAwD;AAKhE,+BAAgC;ECLhC,KAAM;IACF,KAAK,EAAE,IAAI;IACX,KAAK,ECkCI,KAAK;IDjCd,MAAM,ECkCI,KAAK;IDjCf,UAAU,EEGA,OAAO;IFFjB,OAAO,EAAE,UAAc;IACvB,YAAY,ECgCF,KAAK;;EEtCnB,YAAa;IACT,KAAK,EAAE,KAAK;IACZ,KAAK,EFsCE,KAAK;IErCZ,MAAM,EFsCE,KAAK;IErCb,OAAO,EAAE,UAAY;IACrB,WAAW,EFqCC,KAAK;;EG1CrB,OAAQ;IACJ,UAAU,EFUH,OAAO;;EEPlB,SAAU;IACN,UAAU,EAAE,gDAAgD;IAC5D,eAAe,EAAE,KAAK;IACtB,OAAO,EH0CQ,GAAG;;EGvCtB,OAAQ;IACJ,UAAU,EFAH,OAAO;;EEGlB,WAAY;IACR,UAAU,EAAE,MAAM;;EAGtB,WAAY;IACR,UAAU,EFTN,OAAO",
+"sources": ["../sass/desktop-large.scss","../sass/_menu.scss","../sass/_variables.scss","../sass/_colors.scss","../sass/_rightblock.scss","../sass/_ch-huygens.scss"],
 "names": [],
 "file": "desktop-large.css"
 }
