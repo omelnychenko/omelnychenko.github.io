@@ -34,14 +34,14 @@
     width: 200px;
     height: 400px;
     background: #B0E0E6;
-    padding: 13.3333333333px;
+    padding: 13.33333px;
     margin-right: 0.5em; }
 
-  .right_void {
+  .right-block {
     float: right;
     width: 200px;
     height: 400px;
-    padding: 13.3333333333px;
+    padding: 13.33333px;
     margin-left: 0.5em; }
 
   body {
@@ -125,66 +125,17 @@
     background: #FFE4B5; }
 
   .chheader {
-    background: url("../img/ch-huygens-img/chheader.jpg") no-repeat;
+    background: url("../img/headers-img/chheader.jpg") no-repeat;
     background-size: cover;
     padding: 3em; }
 
   .chmenu {
     background: #FFE4B5; }
 
-  .center_pos {
+  .center-pos {
     text-align: center; }
 
   .chfooter p {
     background: #FF7F50; } }
-@media print {
-  body {
-    color: #000000;
-    background: #FFFFFF; }
 
-  h1 {
-    font-size: 150%;
-    text-align: center; }
-
-  h3 {
-    font-weight: bolder; }
-
-  p {
-    text-align: justify; }
-
-  .content {
-    overflow: hidden; }
-
-  table {
-    border: 3px outset #000000;
-    margin: auto; }
-
-  img {
-    padding: 0;
-    border: 3px solid #111111; }
-
-  .first-type {
-    float: right;
-    margin-left: 0.5em;
-    margin-top: 0.5em; }
-
-  .second-type {
-    display: flex;
-    justify-content: center; }
-
-  .third-type {
-    display: block;
-    margin: 0 auto; }
-
-  .first-type-add {
-    margin-top: 1em; }
-
-  .second-type-add {
-    margin: 1em; }
-
-  .footer p {
-    text-align: center;
-    font-size: 14px;
-    font-style: italic; } }
-
-/*# sourceMappingURL=output.css.map */
+/*# sourceMappingURL=main.css.map */

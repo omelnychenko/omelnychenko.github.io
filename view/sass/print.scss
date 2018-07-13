@@ -3,6 +3,6 @@
 @import "colors";
 @import "variables";
 
-@media screen {
-    @import "screenstyles";
+@media print {
+    @import "printstyles";
 }

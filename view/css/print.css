@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@media print {
+  body {
+    color: #000000;
+    background: #FFFFFF; }
+
+  h1 {
+    font-size: 150%;
+    text-align: center; }
+
+  h3 {
+    font-weight: bolder; }
+
+  p {
+    text-align: justify; }
+
+  .content {
+    overflow: hidden; }
+
+  table {
+    border: 3px outset #000000;
+    margin: auto; }
+
+  img {
+    padding: 0;
+    border: 3px solid #111111; }
+
+  .first-type {
+    float: right;
+    margin-left: 0.5em;
+    margin-top: 0.5em; }
+
+  .second-type {
+    display: flex;
+    justify-content: center; }
+
+  .third-type {
+    display: block;
+    margin: 0 auto; }
+
+  .first-type-add {
+    margin-top: 1em; }
+
+  .second-type-add {
+    margin: 1em; }
+
+  .footer p {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic; } }
+
+/*# sourceMappingURL=print.css.map */

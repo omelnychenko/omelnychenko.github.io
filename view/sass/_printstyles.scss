@@ -1,0 +1,61 @@
+body {
+    color: $black;
+    background: $white;
+}
+
+h1 {
+    font-size: $h1-font-size;
+    text-align: center;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+p {
+    text-align: justify;
+}
+
+.content {
+    overflow: hidden;
+}
+
+table {
+    border: $table-border-width outset $black;
+    margin: auto;
+}
+
+img {
+    padding: 0;
+    border: $img-border-width solid $approx-black;
+}
+
+.first-type {
+    float: right;
+    margin-left: $first-type-margin-l;
+    margin-top: $first-type-margin-t;
+}
+
+.second-type {
+    display: flex;
+    justify-content: center;
+}
+
+.third-type {
+    display: block;
+    margin: 0 auto;
+}
+
+.first-type-add {
+    margin-top: $first-type-add-margin-t;
+}
+
+.second-type-add {
+    margin: $second-type-add-margin;
+}
+
+.footer p {
+    text-align: center;
+    font-size: $footer-p-font-size;
+    font-style: italic;
+}
