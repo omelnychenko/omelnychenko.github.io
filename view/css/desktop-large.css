@@ -30,6 +30,29 @@
     text-align: center; }
 
   .chfooter p {
-    background: #FF7F50; } }
+    background: #FF7F50; }
+
+  img {
+    padding: 0;
+    border: 3px solid #111111; }
+
+  .first-type {
+    float: right;
+    margin-left: 0.5em;
+    margin-top: 0.5em; }
+
+  .second-type {
+    display: flex;
+    justify-content: center; }
+
+  .third-type {
+    display: block;
+    margin: 0 auto; }
+
+  .first-type-add {
+    margin-top: 0.5em; }
+
+  .second-type-add {
+    margin: 0.5em; } }
 
 /*# sourceMappingURL=desktop-large.css.map */

@@ -44,13 +44,14 @@ $rv-margin-val: 0.5em;
 $img-first-t-margl: 0.5em;
 $img-first-t-margt: 0.5em;
 $img-second-t-marg: 1em;
-$img-modif-margt: 1em;
-$img-modif-margin: 1em;
-$img-max-width: 100%;
+$img-modif-margt: 0.5em;
+$img-modif-margin: 0.5em;
 $chheader-padding: 3em;
 
 // Variables for small desktops
 $menu-padding: 5px;
+$img-max-height: 100%;
+$img-max-width: 100%;
 
 // Variables for printing
 $h1-font-size: 150%;

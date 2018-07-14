@@ -15,10 +15,36 @@
     }
 
     img {
+        display: block;
         max-width: $img-max-width;
+        max-height: $img-max-height;
     }
 
     .right-block {
         display: none;
+    }
+
+    .first-type {
+        display: flex;    
+        justify-content: center;
+    }
+
+    .second-type {
+        display: flex;    
+        justify-content: center;
+    }
+
+    .third-type {
+        display: flex;    
+        justify-content: center;
+    }
+
+    .first-type-add {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .second-type-add {
+        margin: $img-modif-margin;
     }
 }

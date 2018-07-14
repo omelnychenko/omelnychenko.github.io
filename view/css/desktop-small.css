@@ -9,9 +9,30 @@
     padding: 5px; }
 
   img {
-    max-width: 100%; }
+    display: block;
+    max-width: 100%;
+    max-height: 100%; }
 
   .right-block {
-    display: none; } }
+    display: none; }
+
+  .first-type {
+    display: flex;
+    justify-content: center; }
+
+  .second-type {
+    display: flex;
+    justify-content: center; }
+
+  .third-type {
+    display: flex;
+    justify-content: center; }
+
+  .first-type-add {
+    display: block;
+    margin: 0 auto; }
+
+  .second-type-add {
+    margin: 0.5em; } }
 
 /*# sourceMappingURL=desktop-small.css.map */
